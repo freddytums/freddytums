@@ -1,5 +1,5 @@
-- I'm James 👋
-- and I came here to code 🤓 
+- Hi I'm James 👋
+- ... and I am here to code 🤓 
 - Reach out to collab! 
 
 <!--
