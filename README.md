@@ -1,7 +1,6 @@
-I'm James 👋
-and I came here to code 🤓 
-
-Reach out to collab! 
+- I'm James 👋
+- and I came here to code 🤓 
+- Reach out to collab! 
 
 <!--
 **freddytums/freddytums** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
